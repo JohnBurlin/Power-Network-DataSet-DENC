@@ -1,2 +1,3 @@
 # Power-Network-Dataset-DENC
-The network data used in "DENC: a vulnerable node identification algorithm based on differential electrical conductivity strength based neighborhood compactness for power networks".
+The network data used in "Differential electrical conductivity strength based neighborhood compactness model: A novel vulnerable node identification method for
+power networks".
